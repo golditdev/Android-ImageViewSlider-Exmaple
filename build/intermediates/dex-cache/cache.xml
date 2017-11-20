@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/63d783d161e0394452e80528f8fa849fd555d4c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/classes_f855471665c30d576ee2ba744bd3e8e901db5242.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/a6380cbb0c9eec2974ceb375b98ddbc661378ac2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/classes_40f51d04c5c39194edd065f436492e4565f347e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/142fbe610505542835d2c23461bf98f7e120a24b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/classes_9523782e7f9638a62bc24482e45c4c183166140d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/986b9e75744a7dfb49bdd6cb17800780ab0f8da0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/classes_abed729861ef6a14e0a7a607337b6b4de853d0e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/142fbe610505542835d2c23461bf98f7e120a24b/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_9381a18c00932e0258bb41f4fb960a0cf8410a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/b0e97d652569c9627437519c087db1e94ebb31f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/classes_09e62ca5a1d78bb8e32b9262dbdb5d582dfb7f24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/android_sdk/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_68784452da2a5ce7a7c1c6a1384fc4cdc015e52e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/5b5232adac7bfe37534eb27952cfc07573e5124b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/classes_8e32ec513646b7458cd62b0658b4b2a3469bfd41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/5b5232adac7bfe37534eb27952cfc07573e5124b/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_dcc2932cce2a5d7991f93a7af292ea835f7180b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/0d9b6a483416911fda271966cbba690d72b38a5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/classes_7f3d3bec3e325f64f053a07e9d08e777e2a55afc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/0cc705e3fea329013a94f293705396cac9604cba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/classes_3556f4e8180151ea95a1d9c9eea99b578d34ea85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/8816c166445e720b81b611088ee7650d632b8f42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/classes_8879a253a7641705ab60a91a872b56e828f16cb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/776930cb23ed67045156fd8d7ba0d256332b8146/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/classes_3463007160a414d1f7887fa881b912601c3942d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/8816c166445e720b81b611088ee7650d632b8f42/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_22be774110086e53e9d19aad1cd62086f0063974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/32558b5589726fdf1cc1eacd67ec7ba0ca1c2595/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/classes_987f0ce5bf58c82dc4b8c37a3b7e52726bcd7d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/f12690b9af993d16c763f5115d64e9a370c36765/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/classes_17bd4d11b960234f6302d5cbb2abec4799503a4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/a6380cbb0c9eec2974ceb375b98ddbc661378ac2/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d2e1ac13485e7d89ac79e01347506c96894a18e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Banner-Slider-master/bannerslider/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b48ff125c26ad704913ea1430078d81cee64df6">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/classes_6494be777022896b9c1a362c0103043dbca15adf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_d47d028e7d1c1f67050f8fc9235771df512ee57e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/46b5d0aea34eeba9bded7377bfccc5b111f82064/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_12b65044378120962e4ee89e1a9eb745a9990724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/46b5d0aea34eeba9bded7377bfccc5b111f82064/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/classes_f137d06934a52e07df6fd834bdcfc72dbaed73e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/crane/.android/build-cache/38f8418b3612112134bd61f6f0e4dd97a351a1e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2b9f0c5025fb0640ef092b1ca322bf4a4992e1c">
+        <dex dex="/Volumes/Data/Banner-Slider-master/app/build/intermediates/pre-dexed/debug/classes_aad500e9b8ed2b51b01231096d1963b00d6363aa.jar" />
+    </item>
+
+</items>
